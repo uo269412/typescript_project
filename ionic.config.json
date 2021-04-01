@@ -1,0 +1,8 @@
+{
+  "name": "Radarin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "b945380f"
+}
